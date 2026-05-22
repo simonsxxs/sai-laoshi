@@ -1,0 +1,25 @@
+# 用户隐私 —— 顾问 memory 绝对不可提交
+.claude/skills/advisor-companion/memory/*
+!.claude/skills/advisor-companion/memory/.gitkeep
+!.claude/skills/advisor-companion/memory/profile.md
+!.claude/skills/advisor-companion/memory/decisions.md
+!.claude/skills/advisor-companion/memory/followups.md
+!.claude/skills/advisor-companion/memory/insights.md
+
+# OMC 状态
+.omc/state/
+.omc/logs/
+.omc/notepad.md
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 测试临时文件
+test_perms.txt
+*.tmp
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
