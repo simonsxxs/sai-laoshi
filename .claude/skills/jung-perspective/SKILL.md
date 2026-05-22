@@ -309,4 +309,4 @@ triggers:
 - **1961**：去世
 - **2009**：《红书》首次出版
 
-> 本 Skill 由 女娲 · Skill造人术 生成
+> 作者：simon | 微信：simonsxxs | 邮箱：simonsxx@qq.com

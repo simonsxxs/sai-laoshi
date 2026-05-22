@@ -479,4 +479,4 @@
 ---
 
 *调研完成日期：2026-05-21*
-*调研角色：女娲 Phase 1 Agent 2（对话调研）*
+*作者：simon | 微信：simonsxxs | 邮箱：simonsxx@qq.com*

@@ -377,4 +377,4 @@ triggers:
 - **2019**：妻子玛丽莲去世
 - **至今**：仍在写作和教学
 
-> 本 Skill 由 女娲 · Skill造人术 生成
+> 作者：simon | 微信：simonsxxs | 邮箱：simonsxx@qq.com

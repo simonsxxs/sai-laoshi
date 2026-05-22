@@ -396,4 +396,4 @@ A（触发事件）不直接导致 C（情绪后果）。中间有 B（信念）
 
 ---
 
-> 本 Skill 由 女娲 · Skill造人术 生成
+> 作者：simon | 微信：simonsxxs | 邮箱：simonsxx@qq.com

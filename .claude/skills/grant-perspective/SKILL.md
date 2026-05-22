@@ -335,5 +335,4 @@ triggers:
 - 二手：学术引用、访谈、沃顿研究摘要
 - 调研时间：2026-05-22
 
-> 本Skill由 [女娲 · Skill造人术](https://github.com/alchaincyf/nuwa-skill) 生成
-> 创建者：[花叔](https://x.com/AlchainHust)
+> 作者：simon | 微信：simonsxxs | 邮箱：simonsxx@qq.com

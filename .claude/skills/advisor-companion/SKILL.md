@@ -378,4 +378,4 @@ triggers:
 
 ## 创建者
 
-> 本 Skill 由 女娲 · Skill造人术 生成
+> 作者：simon | 微信：simonsxxs | 邮箱：simonsxx@qq.com
